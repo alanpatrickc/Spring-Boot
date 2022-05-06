@@ -1,2 +1,2 @@
-# Spring-Boot-Spring-Web-Spring-Data-JPA-PostgreSQL
-Spring Boot +Spring Web + Spring Data JPA + PostgreSQL
+# Spring-Boot
+Spring Boot,Spring MVC,Spring Data JPA.PostgreSQL
